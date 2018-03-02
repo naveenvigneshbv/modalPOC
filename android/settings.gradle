@@ -1,0 +1,3 @@
+rootProject.name = 'modalPOC'
+
+include ':app'
